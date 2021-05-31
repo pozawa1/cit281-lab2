@@ -1,5 +1,3 @@
-# Lab 2
-
 ## Objectives
 1. Practice CLI commands
 2. Practice using git
